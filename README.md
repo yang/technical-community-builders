@@ -2,6 +2,9 @@
 
 companies hiring technical community builders ([more info on this here](https://www.swyx.io/community-builder/)).
 
+- **[Plasmic](https://plasmic.app)**
+  - Visual page builder that integrates with your codebase and components. Free up engineering and let marketing move faster on marketing/ecommerce pages.
+  - hiring technical community builder - contact [Yang Zhang](https://twitter.com/yaaang/) (CEO) 
 - **[Begin](https://begin.com)**
   - Effortlessly ship web apps & APIs on AWS
   - hiring technical community builder - contact [Brian Leroux](https://twitter.com/brianleroux/) (CEO) 
